@@ -1,15 +1,80 @@
-# 💫 About Me:
+# 👋 Hi, I'm Prakriti Sharma
 
-# Hi, I'm Prakriti Sharma 👋<br><br>### AI/ML Engineer | Machine Learning | Computer Vision | NLP | RAG<br><br>I'm a B.Tech student specializing in **Artificial Intelligence & Machine Learning**, with a strong interest in building practical AI systems and applying machine learning to real-world problems.<br><br>I work across **Machine Learning, Deep Learning, Computer Vision, NLP, RAG systems, and full-stack AI applications**.<br><br>---<br><br>## 🚀 What I Work On<br><br>* 🤖 Machine Learning & Predictive Modeling<br>* 🧠 Deep Learning & Neural Networks<br>* 👁️ Computer Vision & Image Retrieval<br>* 📝 NLP & Text Processing<br>* 🔎 RAG & Multi-Agent AI Systems<br>* 📊 Data Analysis & Feature Engineering<br>* 🌐 AI-powered Web Applications<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### Languages<br><br>`Python` `JavaScript` `C++` `SQL`<br><br>### Machine Learning / AI<br><br>`Scikit-learn` `PyTorch` `TensorFlow` `Keras`<br>`NumPy` `Pandas` `Matplotlib`<br><br>### Computer Vision<br><br>`OpenCV` `MediaPipe`<br>`CNN` `YOLO` `Image Retrieval`<br><br>### NLP / Generative AI<br><br>`NLP` `Word2Vec` `GloVe` `RAG`<br>`LLM Applications` `Multi-Agent Systems`<br><br>### Web Development<br><br>`React` `Node.js` `Express.js`<br>`MongoDB` `REST APIs`<br><br>### Tools<br><br>`Git` `GitHub` `Jupyter` `Google Colab`<br>`VS Code`<br><br>---<br><br>## 🔥 Featured Projects<br><br>### 🔎 Job-Catcher-System<br><br>An end-to-end machine learning system for matching candidates with job descriptions using feature engineering, classification, model evaluation, and optimized decision thresholds.<br><br>**Focus:** Machine Learning • Feature Engineering • Classification • Model Evaluation<br><br>---<br><br>### 🖼️ Content-Based Image Retrieval<br><br>A query-adaptive CBIR framework combining **HSV colour features and GLCM texture descriptors** with an MLP-based adaptive weighting mechanism for image retrieval.<br><br>**Focus:** Computer Vision • Feature Extraction • GLCM • MLP • Image Retrieval<br><br>---<br><br>### 🤖 Minion<br><br>A multi-agent research-paper analysis system designed to automate different stages of paper evaluation using RAG-based workflows and agent collaboration.<br><br>**Focus:** RAG • Multi-Agent Systems • NLP • Research Automation<br><br>---<br><br>### 🚗 SafeRide<br><br>An ID-verified student carpooling platform designed to connect university students travelling along similar routes.<br><br>**Focus:** React • Node.js • Express • MongoDB • REST APIs<br><br>---<br><br>## 📚 Currently Learning<br><br>* Advanced Machine Learning<br>* Deep Learning<br>* RAG & Agentic AI<br>* Computer Vision<br>* NLP<br>* System Design<br>* Production ML<br><br>---<br><br>## 🎯 Career Interests<br><br>I'm interested in opportunities involving:<br><br>**AI/ML Engineering • Machine Learning • Computer Vision • NLP • Generative AI • Applied AI**<br><br>---<br><br>## 📫 Connect With Me<br><br>* GitHub: [@Prakku09](https://github.com/Prakku09)<br>* Email: [sprakriti0193@gmail.com](mailto:sprakriti0193@gmail.com)<br><br>---<br><br>> Building, experimenting, learning, and turning ideas into working AI systems. 🚀<br>
+### AI/ML Engineer | Machine Learning | Computer Vision | NLP
 
-## 🌐 Socials:
+I'm a **B.Tech student specializing in Artificial Intelligence & Machine Learning**, interested in building practical AI systems and solving real-world problems using machine learning.
 
- 
-
-# 💻 Tech Stack:
-
-                         
-
-# 📊 GitHub Stats:
+I enjoy working on **Machine Learning, Computer Vision, NLP, RAG, and AI-powered applications**.
 
 ---
+
+## 🧠 What I Work With
+
+**Machine Learning** • **Deep Learning** • **Computer Vision** • **NLP** • **RAG** • **Data Analysis**
+
+---
+
+## 🚀 Featured Projects
+
+### 🔎 Job-Catcher-System
+
+Machine learning system for matching candidates with job descriptions using feature engineering, classification, and model evaluation.
+
+**ML • Feature Engineering • Classification**
+
+### 🖼️ Content-Based Image Retrieval
+
+Adaptive image retrieval system using **HSV colour features, GLCM texture features, and MLP-based adaptive weighting**.
+
+**Computer Vision • GLCM • MLP • Image Retrieval**
+
+### 🤖 Minion
+
+Research-paper analysis system using **RAG and multi-agent workflows** for automated paper evaluation.
+
+**RAG • NLP • Multi-Agent AI**
+
+### 🚗 SafeRide
+
+Student carpooling platform designed to connect university students travelling along similar routes.
+
+**React • Node.js • Express • MongoDB**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+Python • C++ • C • JavaScript • SQL
+
+**AI/ML:**
+Scikit-learn • TensorFlow • PyTorch • NumPy • Pandas • Matplotlib
+
+**Computer Vision:**
+OpenCV • MediaPipe • CNN • YOLO
+
+**NLP / Generative AI:**
+NLP • Word2Vec • GloVe • RAG • LLM Applications
+
+**Web Development:**
+React • Node.js • Express.js • MongoDB • FastAPI
+
+**Tools:**
+Git • GitHub • Jupyter • Google Colab • VS Code
+
+---
+
+## 📊 GitHub
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Prakku09\&theme=radical\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [sprakriti0193@gmail.com](mailto:sprakriti0193@gmail.com)
+💻 **GitHub:** [@Prakku09](https://github.com/Prakku09)
+
+---
+
+> Building, experimenting, and turning ideas into working AI systems. 🚀
