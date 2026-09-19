@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
 
-<!--
-**Prakku09/Prakku09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Prakriti Sharma 👋<br><br>### AI/ML Engineer | Machine Learning | Computer Vision | NLP | RAG<br><br>I'm a B.Tech student specializing in **Artificial Intelligence & Machine Learning**, with a strong interest in building practical AI systems and applying machine learning to real-world problems.<br><br>I work across **Machine Learning, Deep Learning, Computer Vision, NLP, RAG systems, and full-stack AI applications**.<br><br>---<br><br>## 🚀 What I Work On<br><br>* 🤖 Machine Learning & Predictive Modeling<br>* 🧠 Deep Learning & Neural Networks<br>* 👁️ Computer Vision & Image Retrieval<br>* 📝 NLP & Text Processing<br>* 🔎 RAG & Multi-Agent AI Systems<br>* 📊 Data Analysis & Feature Engineering<br>* 🌐 AI-powered Web Applications<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### Languages<br><br>`Python` `JavaScript` `C++` `SQL`<br><br>### Machine Learning / AI<br><br>`Scikit-learn` `PyTorch` `TensorFlow` `Keras`<br>`NumPy` `Pandas` `Matplotlib`<br><br>### Computer Vision<br><br>`OpenCV` `MediaPipe`<br>`CNN` `YOLO` `Image Retrieval`<br><br>### NLP / Generative AI<br><br>`NLP` `Word2Vec` `GloVe` `RAG`<br>`LLM Applications` `Multi-Agent Systems`<br><br>### Web Development<br><br>`React` `Node.js` `Express.js`<br>`MongoDB` `REST APIs`<br><br>### Tools<br><br>`Git` `GitHub` `Jupyter` `Google Colab`<br>`VS Code`<br><br>---<br><br>## 🔥 Featured Projects<br><br>### 🔎 Job-Catcher-System<br><br>An end-to-end machine learning system for matching candidates with job descriptions using feature engineering, classification, model evaluation, and optimized decision thresholds.<br><br>**Focus:** Machine Learning • Feature Engineering • Classification • Model Evaluation<br><br>---<br><br>### 🖼️ Content-Based Image Retrieval<br><br>A query-adaptive CBIR framework combining **HSV colour features and GLCM texture descriptors** with an MLP-based adaptive weighting mechanism for image retrieval.<br><br>**Focus:** Computer Vision • Feature Extraction • GLCM • MLP • Image Retrieval<br><br>---<br><br>### 🤖 Minion<br><br>A multi-agent research-paper analysis system designed to automate different stages of paper evaluation using RAG-based workflows and agent collaboration.<br><br>**Focus:** RAG • Multi-Agent Systems • NLP • Research Automation<br><br>---<br><br>### 🚗 SafeRide<br><br>An ID-verified student carpooling platform designed to connect university students travelling along similar routes.<br><br>**Focus:** React • Node.js • Express • MongoDB • REST APIs<br><br>---<br><br>## 📚 Currently Learning<br><br>* Advanced Machine Learning<br>* Deep Learning<br>* RAG & Agentic AI<br>* Computer Vision<br>* NLP<br>* System Design<br>* Production ML<br><br>---<br><br>## 🎯 Career Interests<br><br>I'm interested in opportunities involving:<br><br>**AI/ML Engineering • Machine Learning • Computer Vision • NLP • Generative AI • Applied AI**<br><br>---<br><br>## 📫 Connect With Me<br><br>* GitHub: [@Prakku09](https://github.com/Prakku09)<br>* Email: [sprakriti0193@gmail.com](mailto:sprakriti0193@gmail.com)<br><br>---<br><br>> Building, experimenting, learning, and turning ideas into working AI systems. 🚀<br>
 
-Here are some ideas to get you started:
+## 🌐 Socials:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+# 💻 Tech Stack:
+
+                         
+
+# 📊 GitHub Stats:
+
+---
