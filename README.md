@@ -10,7 +10,7 @@ I enjoy working on **Machine Learning, Computer Vision, NLP, RAG, and AI-powered
 
 ## 🧠 What I Work With
 
-**Machine Learning** • **Deep Learning** • **Computer Vision** • **NLP** • **RAG** • **Data Analysis**
+**Machine Learning** • **Deep Learning** • **Computer Vision** • **NLP**  • **Data Analysis**
 
 ---
 
