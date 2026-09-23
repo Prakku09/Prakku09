@@ -16,12 +16,6 @@ I enjoy working on **Machine Learning, Computer Vision, NLP, RAG, and AI-powered
 
 ## 🚀 Featured Projects
 
-### 🔎 Job-Catcher-System
-
-Machine learning system for matching candidates with job descriptions using feature engineering, classification, and model evaluation.
-
-**ML • Feature Engineering • Classification**
-
 ### 🖼️ Content-Based Image Retrieval
 
 Adaptive image retrieval system using **HSV colour features, GLCM texture features, and MLP-based adaptive weighting**.
